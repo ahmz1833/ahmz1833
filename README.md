@@ -4,21 +4,21 @@ Welcome to my GitHub profile! I'm a University student at Sharif University of T
 
 ### 🔧 Technologies & Tools:
 - **Languages**: C, C++, Java, Python, ASM, ...
-- **Frameworks**: [Add any relevant frameworks here]
+- **Frameworks**: Any
 - **Tools**: Git, Docker, Linux
 - **Databases**: SQLite, ...
 - **Other**: WebSocket, ...
 
 ### 🚀 Projects & Contributions:
-- **[Project Name]**: [Brief description of a project you're proud of]
-- **[Project Name]**: [Another project, highlighting key features]
-- **Open-source contributions**: [Mention any contributions to external projects or communities]
+- **FOP "Neogit" Project**: A VCS (Version Control System) that is the final project of university course "Fundamentals of Programming"
+- **Contribution in AP Project "Gwent"**: An online replica of Gwent card game implemented using JavaFX. That is the final project of university course "Advanced Programming"
+- **Other Projects soon! :)**
 
 ### 📈 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmz1833&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmz1833&show_icons=true&theme=merko)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmz1833&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmz1833&layout=compact&theme=merko)](https://github.com/ahmz1833)
 
 ### 🌱 What I'm Learning:
 I'm currently diving deep into system architecture, networks, and web technologies, expanding my knowledge in modern development practices and tools.
