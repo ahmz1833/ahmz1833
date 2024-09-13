@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a University student at Sharif University of T
 
 ### 📈 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmz1833&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmz1833&layout=compact&theme=radical)](https://github.com/your-username)
 
 ### 🌱 What I'm Learning:
 I'm currently diving deep into system architecture, networks, and web technologies, expanding my knowledge in modern development practices and tools.
